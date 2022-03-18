@@ -1,0 +1,90 @@
+.lay1{
+    
+    height: 523px;
+    width: 600px;
+    background-color: darkcyan;
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 30px;
+}
+.B{
+    position: absolute;
+    background-color: aqua;
+    margin-left: 167px;
+    margin-top: 57px;
+    padding: 10px 38px;
+    border: none;
+    font-size: 15px;
+}
+
+.BL:hover{
+        background-color: greenyellow;
+}
+    
+.B1{
+   position: absolute;
+    margin-left: 298px;
+    margin-top: 57px;
+    padding: 10px 38px;
+    border: none;
+    font-size: 15px;
+    background-color: aqua;
+    
+}
+.BL1:hover{
+    background-color: greenyellow;
+}
+.h3{
+    position: absolute;
+    margin-left: 194px;
+    margin-top: 116px;
+    font-size: 27px;
+    
+}
+
+.fn{
+    position: absolute;
+    margin-left: 111px;
+    margin-top: 177px;
+    height: 20px;
+    width: 350px;
+}
+    
+
+.ln{
+    position: absolute;
+    margin-left: 111px;
+    margin-top: 239px;
+    height: 20px;
+    width: 350px;
+}
+
+.e{
+    position: absolute;
+    margin-left: 111px;
+    margin-top: 358px;
+    height: 20px;
+    width: 350px;
+}
+.ps{
+   position: absolute;
+    margin-left: 111px;
+    margin-top: 299px;
+    height: 20px;
+    width: 350px;
+}
+
+    
+.B2{
+   position: absolute;
+    margin-left: 52px;
+    margin-top: 426px;
+    padding: 10px 198px;
+    border: none;
+    font-size: 15px;
+    background-color: aqua;
+    
+}
+.BL2:hover{
+    background-color: greenyellow;
+}
